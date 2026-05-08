@@ -1,10 +1,4 @@
 <p align="center">
-    <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/86bbe5de-ef4b-42ff-bc66-06877dfbbead" />
-</p>
-
-<div align="center">
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/IsmaelRamosMtz/IsmaelRamosMtz/main/assets/banner.png" width="100%" />
 </p>
 
@@ -12,9 +6,15 @@
 
 # 👋 Hi, I'm Ismael Ramos
 
-### QA Automation Engineer | Quality Engineer | AI-Powered Testing
+### Quality Engineer | SDET | AI-Powered QA Automation Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;AI-Powered+Testing;Cypress+%7C+Playwright+%7C+API+Testing;Quality+Engineer+%7C+SDET;Continuous+Learning+and+Improvement" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=QA+Automation+Engineer;Quality+Engineer+%7C+SDET;AI-Powered+Testing;Cypress+%7C+Playwright+%7C+API+Testing;Shift-Left+Testing+Advocate;Building+Scalable+Automation+Frameworks;Continuous+Learning+and+Innovation" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=IsmaelRamosMtz&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -22,28 +22,34 @@
 
 # 🚀 About Me
 
-💻 QA Automation Engineer with **3+ years of experience** in manual and automation testing.
+💻 Quality Engineer / SDET with **4+ years of experience** building scalable automation solutions, API validations and modern QA strategies in agile environments.
 
-🔍 Passionate about:
-- End-to-End Testing
-- AI-Powered Testing
-- Test Automation Architecture
-- Quality Engineering
+🔍 Specialized in:
+- End-to-End Automation
+- AI-Assisted Testing
+- Cypress & Playwright
 - API Testing
-- Continuous Improvement
+- Shift-Left Testing
+- Scalable QA Architectures
 
-🧠 Currently learning:
-- AI Agents for QA
+⚡ Passionate about using **AI Agents**, **Prompt Engineering**, and **Vibe Testing** to accelerate software quality and improve testing efficiency.
+
+🌎 Experienced working with:
+- International remote teams
+- Agile & Scrum environments
+- Cross-functional collaboration
+- Continuous improvement processes
+
+---
+
+# 🧠 Current Focus
+
+- AI-Powered Testing
 - MCP Integrations
-- Vibe Testing
-- Advanced Playwright
+- Agentic QA Systems
+- Playwright Advanced Automation
 - Intelligent Test Generation
-
-🌎 Open to:
-- Remote opportunities
-- International projects
-- QA Automation roles
-- Quality Engineer / SDET positions
+- Modern Quality Engineering
 
 ---
 
@@ -51,12 +57,14 @@
 
 <div align="center">
 
-## Automation & Testing
+## 🚀 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,git,github,mongodb,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,git,github,mongodb,mysql,vscode" />
 
 <br/>
 <br/>
+
+## 🧪 QA & Automation
 
 <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -66,12 +74,53 @@
 
 <br/>
 
+## 🤖 AI + Modern QA
+
 <img src="https://img.shields.io/badge/AI_Testing-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1DA1F2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vibe_Testing-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP_Integrations-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-1DA1F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge"/>
 
 </div>
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Quality Engineer | SDET — Rankmi
+📅 May 2023 - Present
+
+- Designed and implemented scalable E2E automation suites using Cypress.
+- Increased automation coverage for critical flows.
+- Implemented AI Agents for automated test generation.
+- Applied Vibe Testing techniques for dynamic scenario coverage.
+- Participated in Cypress → Playwright migration projects.
+- Validated REST APIs using Postman.
+- Worked under Shift-Left Testing methodologies.
+- Executed performance testing with JMeter.
+- Collaborated closely with developers and product teams.
+
+---
+
+## 🏢 QA Engineer — Grupo TI Mexico
+📅 June 2022 - May 2023
+
+- Executed functional, regression and integration testing.
+- Designed test cases from user stories and acceptance criteria.
+- Validated APIs and databases using Postman and SQL.
+- Participated in Agile/Scrum workflows.
+- Managed defects and contributed to product quality improvements.
+
+---
+
+## 🏢 QA Junior — Rankmi
+📅 September 2021 - June 2022
+
+- Participated in initial Cypress automation implementations.
+- Executed E2E and integration testing.
+- Collaborated with international remote teams.
+- Analyzed acceptance criteria for test coverage.
 
 ---
 
@@ -79,34 +128,54 @@
 
 ## 🚀 QA Automation Framework - Cypress
 
-Enterprise-level automation framework using Cypress with scalable architecture and best practices.
+Enterprise-level Cypress automation framework focused on scalability and maintainability.
 
 ### Features
 - E2E Testing
 - API Testing
 - Custom Commands
-- Fixtures & Test Data
-- CI/CD Ready
+- Fixtures Management
+- CI/CD Integration
 - Page Object Model
+- Reporting & Screenshots
 
 ---
 
 ## 🤖 Playwright AI Testing
 
-Modern testing framework integrating AI-powered workflows with Playwright automation.
+Modern Playwright framework integrating AI-assisted automation and intelligent workflows.
 
 ### Features
-- AI-assisted testing
-- Smart locators
+- AI-generated testing
+- Smart automation flows
 - MCP integrations
-- Agentic testing
-- Cross-browser testing
+- Agentic Testing
+- Cross-browser execution
 
 ---
 
-## 📊 API Testing Collection
+## 📡 API Testing Collection
 
-Professional API testing collections using Postman for backend validation and automation.
+Professional API validation workflows using Postman and automated assertions.
+
+### Features
+- REST API validations
+- Request/Response assertions
+- Environment management
+- Newman execution
+- Automated collections
+
+---
+
+## ⚡ Performance Testing - JMeter
+
+Load and stress testing implementation for performance validation.
+
+### Features
+- Throughput analysis
+- Stress testing
+- Response time monitoring
+- Performance reporting
 
 ---
 
@@ -142,41 +211,6 @@ Professional API testing collections using Postman for backend validation and au
 
 ---
 
-# 🧠 Currently Learning
-
-- AI-Powered QA Workflows
-- Playwright Advanced Automation
-- MCP + QA Integrations
-- Intelligent Test Design
-- Agentic QA Systems
-- Quality Engineering Practices
-
----
-
-# 🧪 QA Philosophy
-
-```javascript
-const qualityEngineer = {
-    mindset: "Prevent issues before production",
-    automation: "Reliable, maintainable and scalable",
-    testing: ["E2E", "API", "Regression", "Exploratory"],
-    tools: ["Cypress", "Playwright", "Postman"],
-    learning: "Never stop improving",
-    future: "AI + QA Engineering"
-}
-```
-
----
-
-# 🏆 Certifications & Learning
-
-✅ Cambridge English Certification B1  
-✅ Cypress: Master en automatización Test QA
-✅ AI-powered QA: Automatización y Agentes en Software Testing  
-✅ Continuous learning in QA Automation & AI
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -187,16 +221,75 @@ const qualityEngineer = {
 
 ---
 
+# 📚 Certifications & Learning
+
+✅ AI-powered QA: Automatización y Agentes en Software Testing  
+✅ Cypress: Master en automatización Test QA  
+✅ Cambridge English Certification B1  
+
+---
+
+# 🧪 QA Philosophy
+
+```javascript
+const qualityEngineer = {
+    mindset: "Quality is everyone's responsibility",
+    approach: "Shift-Left Testing",
+    automation: "Scalable and maintainable",
+    testing: [
+        "E2E",
+        "API",
+        "Regression",
+        "Integration",
+        "Exploratory",
+        "Performance"
+    ],
+    tools: [
+        "Cypress",
+        "Playwright",
+        "Postman",
+        "JMeter"
+    ],
+    innovation: "AI + QA Automation",
+    goal: "Prevent defects before production"
+}
+```
+
+---
+
+# 🌎 Languages
+
+- 🇲🇽 Spanish — Native
+- 🇺🇸 English — B1
+
+---
+
+# 🤝 Soft Skills
+
+✅ Effective Communication  
+✅ Teamwork  
+✅ Adaptability  
+✅ Continuous Learning  
+✅ Problem Solving  
+✅ Improvement Mindset  
+✅ Curiosity & Innovation  
+
+---
+
 # 🌎 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ismael-ramos-79a5391b1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:ismaelramosmtz@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/IsmaelRamosMtz">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -206,8 +299,6 @@ const qualityEngineer = {
 <div align="center">
 
 ### ⚡ “Quality is not an act, it is a habit.”
-
-<img src="https://komarev.com/ghpvc/?username=IsmaelRamosMtz&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
