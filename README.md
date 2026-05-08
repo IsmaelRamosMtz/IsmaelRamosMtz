@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Ismael Ramos
 
-<!--
-**IsmaelRamosMtz/IsmaelRamosMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | Quality Engineer | AI-Powered Testing
 
-Here are some ideas to get you started:
+Automation QA Engineer with 3+ years of experience in:
+- Cypress
+- Playwright
+- API Testing
+- AI-assisted testing
+- Manual & Automation Testing
+- CI/CD Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- AI Agents for QA
+- MCP integrations
+- Playwright AI workflows
+- Vibe Testing
+
+---
+
+## 🚀 Tech Stack
+
+[badges]
+
+---
+
+## 📌 Featured Projects
+
+[repos importantes]
+
+---
+
+## 📊 GitHub Stats
+
+[stats]
+
+---
+
+## 🧠 Currently Learning
+
+AI + QA Automation
+Playwright MCP
+Agentic Testing
+Prompt Engineering for QA
+
+---
+
+## 🌎 Connect with me
+
+LinkedIn
+Email
+Portfolio
