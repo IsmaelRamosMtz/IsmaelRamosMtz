@@ -4,15 +4,21 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsmaelRamosMtz/IsmaelRamosMtz/main/assets/banner.png" width="100%" />
+</p>
+
+<div align="center">
+
 # 👋 Hi, I'm Ismael Ramos
 
 ### QA Automation Engineer | Quality Engineer | AI-Powered Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cypress+%7C+Playwright+%7C+API+Testing;AI-Powered+QA+Engineer;Automation+Testing+Specialist;Building+Reliable+and+Scalable+Tests;Continuous+Learning+and+Improvement" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;AI-Powered+Testing;Cypress+%7C+Playwright+%7C+API+Testing;Quality+Engineer+%7C+SDET;Continuous+Learning+and+Improvement" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=header"/>
 
 # 🚀 About Me
 
@@ -46,24 +52,20 @@
 <div align="center">
 
 ## Automation & Testing
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,git,github,mongodb,mysql,vscode" />
+
+<br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
----
+<br/>
 
-## Databases & Tools
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,vscode" />
-
-<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white"/>
-
----
-
-## AI & Modern QA
 <img src="https://img.shields.io/badge/AI_Testing-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vibe_Testing-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP_Integrations-FF4B4B?style=for-the-badge"/>
@@ -76,6 +78,7 @@
 # 📌 Featured Projects
 
 ## 🚀 QA Automation Framework - Cypress
+
 Enterprise-level automation framework using Cypress with scalable architecture and best practices.
 
 ### Features
@@ -89,6 +92,7 @@ Enterprise-level automation framework using Cypress with scalable architecture a
 ---
 
 ## 🤖 Playwright AI Testing
+
 Modern testing framework integrating AI-powered workflows with Playwright automation.
 
 ### Features
@@ -101,6 +105,7 @@ Modern testing framework integrating AI-powered workflows with Playwright automa
 ---
 
 ## 📊 API Testing Collection
+
 Professional API testing collections using Postman for backend validation and automation.
 
 ---
@@ -109,7 +114,7 @@ Professional API testing collections using Postman for backend validation and au
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelRamosMtz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelRamosMtz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelRamosMtz&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -127,14 +132,24 @@ Professional API testing collections using Postman for backend validation and au
 
 ---
 
-# 📚 Currently Learning
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/IsmaelRamosMtz/IsmaelRamosMtz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🧠 Currently Learning
 
 - AI-Powered QA Workflows
 - Playwright Advanced Automation
 - MCP + QA Integrations
 - Intelligent Test Design
+- Agentic QA Systems
 - Quality Engineering Practices
-- Agentic Automation Systems
 
 ---
 
@@ -156,8 +171,19 @@ const qualityEngineer = {
 # 🏆 Certifications & Learning
 
 ✅ Cambridge English Certification B1  
+✅ Cypress: Master en automatización Test QA
 ✅ AI-powered QA: Automatización y Agentes en Software Testing  
 ✅ Continuous learning in QA Automation & AI
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IsmaelRamosMtz&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</div>
 
 ---
 
@@ -184,3 +210,5 @@ const qualityEngineer = {
 <img src="https://komarev.com/ghpvc/?username=IsmaelRamosMtz&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
