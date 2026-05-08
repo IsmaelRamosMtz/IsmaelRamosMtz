@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/86bbe5de-ef4b-42ff-bc66-06877dfbbead" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Ismael Ramos
